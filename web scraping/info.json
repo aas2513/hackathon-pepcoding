@@ -1,0 +1,167 @@
+[
+    {
+        "StockName": "ICICI BANK LTD.",
+        "StockInfo": [
+            {
+                "PriceToday": "560.45"
+            },
+            {
+                "Fluctuation": "+22.05 (+4.10%)"
+            },
+            [
+                "Previous Close : 538.40",
+                "Open : 539.25",
+                "High : 563.70",
+                "Low : 538.00",
+                "VWAP : 553.01",
+                "52 Wk High : 679.30",
+                "52 Wk Low : 285.70",
+                "Upper Price Band : 616.45(10%)",
+                "Lower Price Band : 504.45(10%)",
+                "2W Avg Qty`(Lakh) : 11.89",
+                "TTQ (Lakh) : 5.78",
+                "Turnover (Cr.) : 31.98",
+                "Mcap Full (Cr.) : 3,87,643.91",
+                "Mcap FF (Cr.) : 3,87,643.91",
+                "Face Value : 2.00",
+                "EPS (TTM)  : 18.85",
+                "CEPS (TTM) : 18.85",
+                "PE : 29.74",
+                "PB : 2.81",
+                "ROE : 9.45"
+            ]
+        ]
+    },
+    {
+        "StockName": "KOTAK MAHINDRA BANK LTD.",
+        "StockInfo": [
+            {
+                "PriceToday": "1775.85"
+            },
+            {
+                "Fluctuation": "+33.60 (+1.93%)"
+            },
+            [
+                "Previous Close : 1742.25",
+                "Open : 1730.00",
+                "High : 1785.55",
+                "Low : 1725.00",
+                "VWAP : 1,751.57",
+                "52 Wk High : 2,048.95",
+                "52 Wk Low : 1,108.00",
+                "Upper Price Band : 1,953.40(10%)",
+                "Lower Price Band : 1,598.30(10%)",
+                "2W Avg Qty`(Lakh) : 0.94",
+                "TTQ (Lakh) : 0.61",
+                "Turnover (Cr.) : 10.67",
+                "Mcap Full (Cr.) : 3,51,944.29",
+                "Mcap FF (Cr.) : 2,60,438.77",
+                "Face Value : 5.00",
+                "EPS (TTM)  : 33.07",
+                "CEPS (TTM) : 33.07",
+                "PE : 53.70",
+                "PB : 5.87",
+                "ROE : 10.93"
+            ]
+        ]
+    },
+    {
+        "StockName": "YES BANK LTD.",
+        "StockInfo": [
+            {
+                "PriceToday": "14.70"
+            },
+            {
+                "Fluctuation": "+0.25 (+1.73%)"
+            },
+            [
+                "Previous Close : 14.45",
+                "Open : 14.45",
+                "High : 14.75",
+                "Low : 14.30",
+                "VWAP : 14.61",
+                "52 Wk High : 31.95",
+                "52 Wk Low : 11.10",
+                "Upper Price Band : 17.60(20%)",
+                "Lower Price Band : 11.80(20%)",
+                "2W Avg Qty`(Lakh) : 144.04",
+                "TTQ (Lakh) : 80.15",
+                "Turnover (Cr.) : 11.71",
+                "Mcap Full (Cr.) : 36,830.71",
+                "Mcap FF (Cr.) : 18,047.05",
+                "Face Value : 2.00",
+                "EPS (TTM)  : 1.18",
+                "CEPS (TTM) : 1.18",
+                "PE : 12.47",
+                "PB : 1.00",
+                "ROE : 8.03"
+            ]
+        ]
+    },
+    {
+        "StockName": "CIPLA LTD.",
+        "StockInfo": [
+            {
+                "PriceToday": "885.20"
+            },
+            {
+                "Fluctuation": "-17.80 (-1.97%)"
+            },
+            [
+                "Previous Close : 903.00",
+                "Open : 928.00",
+                "High : 932.40",
+                "Low : 878.25",
+                "VWAP : 899.99",
+                "52 Wk High : 940.00",
+                "52 Wk Low : 565.90",
+                "Upper Price Band : 973.70(10%)",
+                "Lower Price Band : 796.70(10%)",
+                "2W Avg Qty`(Lakh) : 3.62",
+                "TTQ (Lakh) : 6.46",
+                "Turnover (Cr.) : 58.10",
+                "Mcap Full (Cr.) : 71,388.13",
+                "Mcap FF (Cr.) : 44,974.52",
+                "Face Value : 2.00",
+                "EPS (TTM)  : 32.98",
+                "CEPS (TTM) : 40.16",
+                "PE : 26.84",
+                "PB : 3.79",
+                "ROE : 14.12"
+            ]
+        ]
+    },
+    {
+        "StockName": "AUROBINDO PHARMA LTD.",
+        "StockInfo": [
+            {
+                "PriceToday": "909.75"
+            },
+            {
+                "Fluctuation": "-6.40 (-0.70%)"
+            },
+            [
+                "Previous Close : 916.15",
+                "Open : 919.00",
+                "High : 924.95",
+                "Low : 887.10",
+                "VWAP : 908.10",
+                "52 Wk High : 1,023.10",
+                "52 Wk Low : 464.35",
+                "Upper Price Band : 1,000.70(10%)",
+                "Lower Price Band : 818.80(10%)",
+                "2W Avg Qty`(Lakh) : 1.11",
+                "TTQ (Lakh) : 1.13",
+                "Turnover (Cr.) : 10.27",
+                "Mcap Full (Cr.) : 53,305.76",
+                "Mcap FF (Cr.) : 25,586.77",
+                "Face Value : 1.00",
+                "EPS (TTM)  : 50.89",
+                "CEPS (TTM) : 59.07",
+                "PE : 17.88",
+                "PB : 3.68",
+                "ROE : 20.61"
+            ]
+        ]
+    }
+]
